@@ -30,12 +30,12 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panel1 = new System.Windows.Forms.Panel();
-            this.pnl_contenedor = new System.Windows.Forms.Panel();
             this.btn_repuestos = new System.Windows.Forms.Button();
             this.btn_turnos = new System.Windows.Forms.Button();
             this.btn_cliente = new System.Windows.Forms.Button();
             this.btn_autos = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.pnl_contenedor = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -52,16 +52,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(159, 577);
             this.panel1.TabIndex = 0;
-            // 
-            // pnl_contenedor
-            // 
-            this.pnl_contenedor.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(249)))), ((int)(((byte)(249)))));
-            this.pnl_contenedor.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pnl_contenedor.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(146)))), ((int)(((byte)(147)))), ((int)(((byte)(168)))));
-            this.pnl_contenedor.Location = new System.Drawing.Point(159, 0);
-            this.pnl_contenedor.Name = "pnl_contenedor";
-            this.pnl_contenedor.Size = new System.Drawing.Size(845, 577);
-            this.pnl_contenedor.TabIndex = 1;
             // 
             // btn_repuestos
             // 
@@ -131,7 +121,7 @@
             this.btn_autos.Name = "btn_autos";
             this.btn_autos.Size = new System.Drawing.Size(159, 47);
             this.btn_autos.TabIndex = 0;
-            this.btn_autos.Text = "Autos";
+            this.btn_autos.Text = "Autos pc";
             this.btn_autos.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btn_autos.UseVisualStyleBackColor = true;
             this.btn_autos.Click += new System.EventHandler(this.btn_autos_Click);
@@ -147,6 +137,16 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(159, 103);
             this.panel3.TabIndex = 0;
+            // 
+            // pnl_contenedor
+            // 
+            this.pnl_contenedor.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(249)))), ((int)(((byte)(249)))));
+            this.pnl_contenedor.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pnl_contenedor.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(146)))), ((int)(((byte)(147)))), ((int)(((byte)(168)))));
+            this.pnl_contenedor.Location = new System.Drawing.Point(159, 0);
+            this.pnl_contenedor.Name = "pnl_contenedor";
+            this.pnl_contenedor.Size = new System.Drawing.Size(845, 577);
+            this.pnl_contenedor.TabIndex = 1;
             // 
             // Form1
             // 
