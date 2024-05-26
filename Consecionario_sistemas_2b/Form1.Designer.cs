@@ -103,7 +103,7 @@
             this.btn_cliente.Name = "btn_cliente";
             this.btn_cliente.Size = new System.Drawing.Size(159, 47);
             this.btn_cliente.TabIndex = 1;
-            this.btn_cliente.Text = "Clientes";
+            this.btn_cliente.Text = "Clientes net";
             this.btn_cliente.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btn_cliente.UseVisualStyleBackColor = true;
             // 
