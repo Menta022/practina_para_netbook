@@ -7,6 +7,7 @@ C:\Programacion2\seminario de programacion\Consecionario_sistemas_2b\Consecionar
 C:\Programacion2\seminario de programacion\Consecionario_sistemas_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.pdb
 C:\Programacion2\seminario de programacion\Consecionario_sistemas_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.csprojResolveAssemblyReference.cache
 C:\Programacion2\seminario de programacion\Consecionario_sistemas_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.FrmAutos.resources
+<<<<<<< HEAD
 C:\Users\usuario\Desktop\practica\practina_para_netbook\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.exe
 C:\Users\usuario\Desktop\practica\practina_para_netbook\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.pdb
 C:\Users\usuario\Desktop\practica\practina_para_netbook\Consecionario_sistemas_2b\bin\Debug\Consecionario_sistemas_2b.exe
@@ -16,3 +17,14 @@ C:\Users\usuario\Desktop\practica\practina_para_netbook\Consecionario_sistemas_2
 C:\Users\usuario\Desktop\practica\practina_para_netbook\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.FrmAutos.resources
 C:\Users\usuario\Desktop\practica\practina_para_netbook\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.Properties.Resources.resources
 C:\Users\usuario\Desktop\practica\practina_para_netbook\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.csproj.GenerateResource.Cache
+=======
+C:\Users\haseo\Desktop\Consecionario_sistemas_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.exe
+C:\Users\haseo\Desktop\Consecionario_sistemas_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.pdb
+C:\Users\haseo\Desktop\Consecionario_sistemas_2b\Consecionario_sistemas_2b\bin\Debug\Consecionario_sistemas_2b.exe
+C:\Users\haseo\Desktop\Consecionario_sistemas_2b\Consecionario_sistemas_2b\bin\Debug\Consecionario_sistemas_2b.pdb
+C:\Users\haseo\Desktop\Consecionario_sistemas_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.csprojResolveAssemblyReference.cache
+C:\Users\haseo\Desktop\Consecionario_sistemas_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.Form1.resources
+C:\Users\haseo\Desktop\Consecionario_sistemas_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.FrmAutos.resources
+C:\Users\haseo\Desktop\Consecionario_sistemas_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.Properties.Resources.resources
+C:\Users\haseo\Desktop\Consecionario_sistemas_2b\Consecionario_sistemas_2b\obj\x86\Debug\Consecionario_sistemas_2b.csproj.GenerateResource.Cache
+>>>>>>> main

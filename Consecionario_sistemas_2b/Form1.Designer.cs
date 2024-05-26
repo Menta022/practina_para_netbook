@@ -121,7 +121,7 @@
             this.btn_autos.Name = "btn_autos";
             this.btn_autos.Size = new System.Drawing.Size(159, 47);
             this.btn_autos.TabIndex = 0;
-            this.btn_autos.Text = "Autos";
+            this.btn_autos.Text = "Autos pc";
             this.btn_autos.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btn_autos.UseVisualStyleBackColor = true;
             this.btn_autos.Click += new System.EventHandler(this.btn_autos_Click);
